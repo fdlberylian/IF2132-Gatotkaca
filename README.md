@@ -3,11 +3,11 @@
 GATOTKACA THE GAME: A SNAKES-AND-LADDERS ADVENTURE
 
 Gatotkaca team members:
-Ignasius Jeffrey Cahyadi	  12213012
-Fadhil Berylian			        12213016
-Anton Kurniawan			        12213018
-Gede Pramana Suwidya Putra	12213030
-Dodi Romanus Duha		        12213066
+- Ignasius Jeffrey Cahyadi	  12213012
+- Fadhil Berylian			        12213016
+- Anton Kurniawan			        12213018
+- Gede Pramana Suwidya Putra	12213030
+- Dodi Romanus Duha		        12213066
 
 How to operate the game:
 1. Input on the options menu (**1** to start, **2** to exit)
