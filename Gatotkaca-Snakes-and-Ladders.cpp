@@ -1,5 +1,5 @@
 // "Gatotkaca" Snakes and Ladders
-// A C++ game built for completing Computer Programming course project, April 2015
+// A C++ game built for completing Computer Programming course project, November 2014
 
 #include<iostream>
 #include<cstdlib>
